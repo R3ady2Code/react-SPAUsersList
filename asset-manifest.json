@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-spa-userslist/static/css/main.3fcae2ad.css",
+    "main.js": "/react-spa-userslist/static/js/main.5df8d5f7.js",
+    "index.html": "/react-spa-userslist/index.html",
+    "main.3fcae2ad.css.map": "/react-spa-userslist/static/css/main.3fcae2ad.css.map",
+    "main.5df8d5f7.js.map": "/react-spa-userslist/static/js/main.5df8d5f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fcae2ad.css",
+    "static/js/main.5df8d5f7.js"
+  ]
+}
